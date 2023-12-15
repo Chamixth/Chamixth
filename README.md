@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Angular**
 
-- 💬 Ask me about **GoLang, AWS, Java**
-
 - 📫 How to reach me **chamith.eos@gmail.com**
 
 - ⚡ Fun fact **No one laughing at my jokes**
