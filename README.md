@@ -3,11 +3,10 @@
 
 - 🔭 I’m currently working at **Evolza**
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **Kubernetes**
 
 - 📫 How to reach me **chamith.eos@gmail.com**
 
-- ⚡ Fun fact **No one laughing at my jokes**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
